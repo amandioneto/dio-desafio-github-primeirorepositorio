@@ -6,6 +6,6 @@ Repositório criado para o Desafio de Projeto.
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Download Git](Git - Downloads](https://git-scm.com/downloads)
+[Download Git](https://git-scm.com/downloads)
 
 
